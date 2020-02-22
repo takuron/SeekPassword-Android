@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">觅密</string>
+    <string name="password_notice">已经生成对应应用的密码。请使用此密码作为您的账户密码并保管好根密码以便随时重新生成。</string>
+    <string name="button_article">作者原文章</string>
+    <string name="button_back">返回</string>
+    <string name="button_copy">复制</string>
+    <string name="button_help">帮助</string>
+    <string name="copy_message">复制成功</string>
+    <string name="distinguish_code">区分代码</string>
+    <string name="encrypted_password">加密密码</string>
+    <string name="exit_message">再次单击返回按钮来退出</string>
+    <string name="generate">生成</string>
+    <string name="help_dialog_message">SeekPassword（觅密）是一个受到“花密”工具启发而制作的网页 https://wsine.github.io/seekpassword/ 。此项目为基于此网页，利用HTML Compiler改造而成的Windows客户端。  SeekPassword是一种密码计算器，利用（可以被轻松记忆的）根密码和（可以根据应用区分的）区分代码来计算出一个不可逆的密码。同时解决了多平台同一密码的高风险问题和纯随机密码难以记忆的问题。具体推荐的密码管理策略请参照上方原作者的文章。</string>
+    <string name="help_dialog_title">这是什么？</string>
+    <string name="memory_password">记忆密码</string>
+    <string name="no_text">此项不能为空</string>
+    <string name="remove_punctuation">移除标点</string>
+    <string name="title_password_activity">生成结果</string>
+</resources>

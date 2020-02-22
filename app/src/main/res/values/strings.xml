@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SeekPassword</string>
+    <string name="memory_password">Memory Password</string>
+    <string name="distinguish_code">Distinguish Code</string>
+    <string name="remove_punctuation">Remove punctuation</string>
+    <string name="generate">Generate</string>
+    <string name="button_help">Help</string>
+    <string name="encrypted_password">Encrypted Password</string>
+    <string name="button_copy">Copy</string>
+    <string name="password_notice">A password for the corresponding application has been generated. Please use this password as your account password and keep the root password for regenerating at any time.</string>
+    <string name="button_back">Back</string>
+    <string name="title_password_activity">Generate results</string>
+    <string name="copy_message">Copy successful</string>
+    <string name="exit_message">Press the back key again to exit the program</string>
+    <string name="help_dialog_title">what is this?</string>
+    <string name="help_dialog_message">SeekPassword is a software inspired by FlowerPassword. This project is a Android clint. \nSeekPassword is a password calculator that uses a root password (which can be easily remembered) and a distinguishing code (which can be distinguished by application) to calculate an irreversible password. At the same time, it solves the problem of high risk of the same password on multiple platforms and the difficulty of memorizing pure random passwords. For specific recommended password management strategies, please refer to the author’s article (In Chinese) above .</string>
+    <string name="button_article">Author\'s article (In Chinese)</string>
+    <string name="no_text">This item cannot be empty</string>
+</resources>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="text/javascript" src="js/md5.min.js"></script>
+  <script type="text/javascript" src="src/seek_password.js"></script>
+  <title>Wsine - 觅密</title>
+</head>
+<body>
+  <h1>Test</h1>
+  <script type="text/javascript">
+
+  function calljs(pwd,key,checked){
+      var sk_pwd = generate_password(pwd,key);
+      if (sk_pwd) {
+
+		if (checked) {
+          return sk_pwd.replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()@\+\?><\[\]\+]/g, "");
+        } else {
+          return sk_pwd;
+        }
+      }
+    }
+  </script>
+</body>
+</html>
